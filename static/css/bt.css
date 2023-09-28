@@ -1,0 +1,153 @@
+.banner-wrap{height:auto;position:relative;background-position:center center}
+.index-banner-top{margin:185px 0;z-index:99;position:absolute}
+.y-page-title-bg{width:100px;height:20px;background:linear-gradient(to right,#ffffff,#FFC107);display:inline-block;position:absolute;top:37%;left:22%;z-index:2}
+.center{text-align:center}
+.tpm-prod-hero__btn-group{margin-top:20px}
+h1.banner-title,.index-banner-top p{color:#fff;font-weight:600;margin-bottom:15px;font-size:38px;font-family:inherit;font-style:normal}
+.index-banner-top p{line-height:38px !important;height:34px;font-size:16px;font-weight:400;font-family:微软雅黑}
+img.products{width:750px;height:438px;right:0;top:0px;margin-left:780px;position:relative}
+.tpm-prod-hero__btn{background:#ebf0fc;box-shadow:8px 8px 20px 0 rgb(121 172 255 / 10%);color:#0e52ff;min-width:136px;height:44px;font-size:16px;line-height:42px;-webkit-font-smoothing:auto;transition:all .3s ease-in-out;outline:0 none;cursor:pointer;white-space:nowrap;text-align:center;text-decoration:none;vertical-align:middle;display:inline-block;box-sizing:border-box;margin-right:20px;border:2px solid #0056ff;border-radius:4px}
+.tpm-prod-hero__btn--white{border:1px solid #fff;box-shadow:8px 8px 20px 0 rgba(55,99,170,.1),inset 0 4px 20px 0 hsla(0,0%,100%,.5);transition:all .3s ease-in-out;color:#fff;border-color:rgba(255,255,255,.6)}
+.index-banner-top ul>li button{float:left;padding:6px 35px;background:#fff;color:#3085de;border-radius:3px;font-weight:600;margin-left:0px;margin-top:0px;border:none;height:35.5px}
+.index-banner-top ul>li .contorl button{background:none;border:1px solid #fff;color:#fff;padding:5px 35px;margin-left:8px}
+.index-banner{width:1240px;margin:auto}
+.swiper-container{margin-left:auto;margin-right:auto;position:relative;overflow:hidden;list-style:none;padding:0;z-index:1}
+.swiper-pointer-events{touch-action:pan-y;height:438px}
+.container{width:1240px;margin:0 auto}
+.product-banner-section{background-image:url(../images/bannerVG2.jpg)}
+.product-nav{border-bottom:1px solid #ddd}
+.product-nav{height:70px;background:#fff;font-size:16px}
+ul.cps-cloumn{position:relative !important}
+.product-nav .name{font-weight:bold;float:left;line-height:70px;margin-right:35px}
+.product-nav .name:after{content:"";float:right;width:2px;height:16px;background:#ddd;float:right;margin:27px 0 0 35px}
+.product-nav .btn-default{float:right;width:138px;height:38px;line-height:38px;margin:15px 0 0;color:#fff;text-align:center;font-size:16px;border:1px solid #015bfe;background:#015bfe}
+span.ip{color:#4CAF50;font-weight:700;padding:0 4px}
+.product-nav{height:70px;background:#fff;font-size:16px}
+.product-nav .stype{float:left;overflow:hidden}
+.product-nav li{float:left;position:relative;color:#666666;line-height:70px;margin-right:90px;cursor:pointer}
+.product-nav li:after{content:"";position:absolute;left:0;bottom:0;width:0;height:3px;background:#015bfe;transition:0.2s all linear;-moz-transition:0.2s all linear;-webkit-transition:0.2s all linear;-o-transition:0.2s all linear}
+.product-nav li:hover{color:#015bfe}
+.product-nav li:hover:after{width:100%}
+.product-nav .active{color:#015bfe !important}
+.product-nav .active:after{width:100%}
+.product-nav .name{font-weight:bold;float:left;line-height:70px;margin-right:55px}
+.product-nav .name:after{content:"";float:right;width:2px;height:16px;background:#ddd;float:right;margin:27px 0 0 35px}
+.product-nav .btn-default{float:right;width:138px;height:38px;line-height:38px;margin:15px 0 0}
+.product-nav .btn-default:hover{color:#fff}
+.cloumn-blank{display:none;height:70px;overflow:hidden}
+.nav-fixed{border-bottom:1px solid #ddd;position:fixed;left:0;right:0;top:0;z-index:11}
+.news{width:1240px;background-color:#fff;margin:auto;height:50px;line-height:50px;border-radius:5px;box-shadow:0 3px 6px -4px rgba(62,94,255,0.050980392156862744),0 6px 16px 0 rgba(62,94,255,0.050980392156862744),0 9px 28px 8px rgba(62,94,255,0.050980392156862744);transform:translateY(-25px);transition-duration:1s;color:#999;overflow:hidden;white-space:nowrap;z-index:1;position:relative}
+.news a{color:#999;display:inline-block;width:350px;overflow:hidden;white-space:nowrap;margin-left:50px;padding-left:15px;background-repeat:no-repeat;background-position:0 -1569px;background-image:url(../picture/product.png)}
+.products-nav.fixed{position:fixed;top:70px}
+.products-nav{float:left;width:150px;z-index:9;position:absolute;background:#fff}
+.products-nav>ul{border-right:1px solid #e1e6f0;box-sizing:border-box}
+.products-nav>ul li.active{width:150px;border-right:2px solid #0e52ff;background:linear-gradient(90deg,rgba(255,255,255,0) 0,#fff 100%)}
+.products-nav>ul li{position:relative;width:151px;height:auto;padding:14px 0 14px 40px;line-height:32px}
+.products-nav>ul li.active:before{background:linear-gradient(90deg,#3860f4 0,rgba(95,135,248,0) 100%)}
+.products-nav>ul li:before{display:block;content:'';float:left;margin:13px 0 0 -22px;width:6px;height:6px;background:linear-gradient(90deg,rgba(56,96,244,.21) 0,rgba(249,250,255,0) 100%);border-radius:4px}
+.products-nav>ul li.active a{font-weight:700;color:#3860f4}
+.products-nav>ul li a{display:block;font-size:16px;color:#374567}
+.products-nav>ul li:after{position:absolute;left:13px;bottom:0;display:block;content:'';width:138px;height:1px;background:#ebf0fc}
+.yunwei{padding-top:0px;padding-bottom:70px;text-align:center;background-color:#fff;margin:auto;width:1240px;overflow:hidden}
+.yunwei .title{font-size:24px;line-height:15px;padding-bottom:35px;border-bottom:1px solid #eee;color:#ffffff00;font-weight:bold}
+.yunwei .smalltitle{width:550px;margin:auto;background-color:#fff;color:#999;margin-top:-12px;font-size:14px;height:40px}
+.yunwei .content{text-align:left;padding-top:40px;overflow:hidden}
+.yunwei .content .left{width:452px;float:left;color:#797979;font-size:16px;line-height:40px}
+.yunwei .content .left img{border:0;margin-bottom:30px;width:452px}
+.yunwei .content .right{float:right;width:700px;overflow:hidden}
+.yunwei .content .right a{display:block;width:310px;padding-top:90px;float:right;border:4px solid #F4F6F9;margin-left:20px;margin-bottom:20px;border-radius:5px;color:#474747;text-align:center;font-size:16px;height:auto}
+.yunwei .content .right a i{display:block;width:250px;margin:auto;font-size:14px;color:#999;font-style:normal;padding:20px 0;line-height:25px}
+.yunwei .content .right a.zdh{background-image:url(../picture/yunweiico55.png);background-repeat:no-repeat;background-position:126px 25px}
+.yunwei .content .right a.beifen{background-image:url(../picture/yunweiico55.png);background-repeat:no-repeat;background-position:126px -175px}
+.yunwei .content .right a.anquan{background-image:url(../picture/yunweiico55.png);background-repeat:no-repeat;background-position:126px -375px}
+.yunwei .content .right a.tongzhi{background-image:url(../picture/yunweiico55.png);background-repeat:no-repeat;background-position:126px -575px}
+.product{margin-top:-50px;background-color:#F6F6F6;text-align:center;padding-top:70px;padding-bottom:70px;overflow:hidden}
+.product h1{text-align:center;font-size:22px;color:#222}
+.product .content{width:1240px;margin:auto;overflow:hidden;padding-top:10px}
+.product .content div{padding-left:50px;padding-right:45px;height:300px;padding-top:40px;display:inline-block;margin-top:40px;border:1px solid #fff;border-radius:5px;background-color:#fff;-webkit-box-shadow:#e5e5e5 0px 0px 10px;-moz-box-shadow:#e5e5e5 0px 0px 10px;box-shadow:#e5e5e5 1px 0px 10px;overflow:hidden;width:calc((100% - 37px) / 2);vertical-align:text-top;margin-left:30px}
+.product .content div:hover{-webkit-box-shadow:#00B266 0px 0px 10px;-moz-box-shadow:#00B266 0px 0px 10px;box-shadow:#00B266 1px 0px 10px;transform:translateY(-10px)}
+.product .content div.hot{-webkit-box-shadow:#00B266 0px 0px 10px;-moz-box-shadow:#00B266 0px 0px 10px;box-shadow:#00B266 1px 0px 10px}
+.product .content div:hover p.name{font-size:18px;border-bottom:1px dotted #00B266}
+.product .content div.hot p.name{font-size:18px;border-bottom:1px dotted #00B266}
+.product .content div.left{margin-left:0}
+.product .content div.right{margin-right:0}
+.product .content div p.name{height:40px;line-height:40px;padding-left:45px;padding-bottom:15px;text-align:left;font-size:16px;border-bottom:1px dotted #ccc;font-weight:bold}
+.product .content div p.name a{color:#000}
+.product .content div:hover p.name a{font-weight:bold}
+.product .content div p.name a:hover{color:#00B266}
+.product .content div a.about{display:block;margin-top:10px;height:145px;padding-bottom:10px;padding-top:10px;border-bottom:1px dotted #ccc;color:#999;line-height:35px;text-align:left;overflow:hidden;font-size:12px}
+.product .content div:hover a.about{text-decoration:underline}
+.product .content div a.about span{display:block;background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -1577px;padding-left:15px}
+.product .content div p.more{margin-top:10px;height:35px;line-height:35px;overflow:hidden;color:#999}
+.product .content div p.more a{float:right;display:block;margin-left:10px;color:#999}
+.product .content div p.more a.price{float:left;margin-left:0;font-size:12px}
+.product .content div p.more a.price i{font-weight:bold;color:darkorange;margin-right:3px;font-size:14px;font-style:normal}
+.product .content div p.more a.price b{font-weight:bold;color:#00B000;margin-right:3px;font-size:14px}
+.product .content div p.more a.buy{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -800px;width:35px;height:35px}
+.product .content div p.more a.buy:hover{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -1240px;width:35px;height:35px}
+.product .content div p.more a.downw{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -900px;width:35px;height:35px}
+.product .content div p.more a.downw:hover{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -1300px;width:35px;height:35px}
+.product .content div p.more a.downl{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -1000px;width:35px;height:35px}
+.product .content div p.more a.downl:hover{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -1400px;width:35px;height:35px}
+.product .content div.daiwei p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 6px}
+.product .content div.security p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -94px}
+.product .content div.wss p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:-3px -1702px}
+.product .content div.ssl p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -295px}
+.product .content div.host p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 6px}
+.product .content div.sec p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -496px}
+.product .content div.fcg p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -596px}
+.product .content div.hbf{background-image:url(../picture/bt-new.png);background-repeat:no-repeat;background-position:190px  50px}
+.product .content div.hbf p.name{background-image:url(../picture/product.png);background-repeat:no-repeat;background-position:0 -696px}
+.down-linux{padding-bottom:50px;background-color:#F4F7FC;text-align:center;padding-top:50px}
+.down-linux .title{width:150px;padding-left:20px;margin:auto;font-size:28px;line-height:50px;background-image:url(../picture/special.png);background-repeat:no-repeat;background-position:0 -890px}
+.down-linux .content{width:1240px;padding:49px;background-color:#fff;border-radius:5px;margin:auto;text-align:left;overflow:hidden}
+.down-linux .content .c2{padding-top:0px;font-size:14px;color:#666;line-height:30px;margin-bottom:20px}
+.down-linux .content .c2 p{padding-left:25px;background-image:url(../picture/special.png);background-repeat:no-repeat;background-position:0 -2793px}
+.down-linux .content .c2 div{border:1px solid #ebf0fc;margin-top:10px;line-height:50px;height:50px;background-color:#FFFDF5;padding:0}
+.down-linux .content .c2 div a{display:block;float:left;background-color:#00B000;width:60px;height:49px;text-align:center;color:#ffffff;overflow:hidden}
+.down-linux .content .c2 div a:hover{cursor:pointer}
+.down-linux.bg4{background-color:#f6f6f6}
+.down-linux .content .c2 div textarea{height:48px;line-height:49px;padding-left:10px;width:1080px;overflow:hidden;resize:none;float:left;border-radius:4px;font-size:16px;box-shadow:none;outline:0;border:2px solid #ffffff !important;background:linear-gradient(#ebeffd 10%,15%,#fff) !important;color:#2c3e50 !important}
+.down-linux .content .c2 p.ubuntu{background-image:url(../picture/special.png);background-repeat:no-repeat;background-position:0 -2893px}
+.down-linux .content .c3{padding-top:30px;font-size:14px;color:#999;border-bottom:1px dotted #eee;padding-bottom:20px;line-height:30px}
+.down-linux .content .c3 span{color:red}
+.success-message{width:200px;height:50px;font-size:17px;text-align:center;position:fixed;left:45%;bottom:50%;line-height:50px;z-index:99;border-radius:4px;color:#0e52ff;background-color:#ebf0fc;box-shadow:0 0 2px 0 rgba(0,1,0,.01),0 0 0 1px #0e52ff;border:2px solid #ffffff !important;background:linear-gradient(#ebeffd 10%,15%,#fff) !important}
+.success-message::after{background:linear-gradient(90deg,#3860f4 0,rgba(95,135,248,0) 100%);display:block;float:left;border-radius:4px;content:"";position:absolute;left:18px;top:16px;width:18px;height:18px;background-image:url(../images/icon-feature39d.svg)}
+span.mes-text{margin-left:20px}
+@media all and (max-width:768px){img.products{right:0;top:20px;margin-left:90px;position:relative;height:280px;width:120%}
+h1.banner-title{font-size:20px;margin-top:0px;display:inline-block}
+.index-banner-top{margin:105px 0;z-index:99;position:absolute;padding:0px 80px 0 20px}
+.index-banner-top p{text-align:left;font-size:14px;color:#ccc}
+h1.banner-title{font-size:20px;margin-top:0px;display:inline-block;border-left:3px solid #ffc107;padding-left:14px}
+.tpm-prod-hero__btn-group{display:none}
+.product-nav .stype{float:inherit;overflow:hidden;text-align:center}
+.product-nav .name,.product-nav .btn-default{display:none}
+.product-nav li{margin-right:0;width:25%}
+.product-nav li:before{content:"";height:20px;width:1px;background:#e6e6e6;position:absolute;right:0;top:25px}
+.product-banner-section{background:#020d29}
+.cps-cloumn{color:rgb(51,51,51);height:50px;font-size:14px;overflow:hidden;border-bottom:1px solid rgb(221,221,221);line-height:50px;text-align:center;position:relative;min-width:100%;background:#fff}
+.cps-cloumn .active{background:#0056ff !important}
+.cps-cloumn .active p{color:#fff !important}
+.cps-cloumn .active:after{content:'';position:absolute;left:0;bottom:0;width:100%;border-bottom:2px solid #2a62ff;height:auto;top:auto}
+.cps-cloumn li{display:block;width:20%;float:left;color:#000;padding:0}
+.cps-cloumn li p{font-weight:400}
+.cps-cloumn li:before{content:"";position:absolute;left:0px;width:0px;height:0px;top:0px;display:none}
+.cps-cloumn li:after{content:"";height:20px;width:1px;background:#e6e6e6;position:absolute;right:0;top:15px}
+.news a{width:50%}
+.yunwei{padding-top:0px;padding-bottom:70px;text-align:center;background-color:#fff;margin:auto;width:100%;overflow:hidden;padding:0 10px}
+.product{margin-top:0px}
+.yunwei .content .left{font-size:13px;line-height:30px;margin-bottom:40px}
+.yunwei .content .right a{display:block;padding-top:20px;float:right;border:1px solid #F4F6F9;margin-left:0px;margin-bottom:20px;border-radius:5px;color:#474747;text-align:center;font-size:16px;height:175px;width:calc((100% - 20px) / 2);vertical-align:text-top;margin-right:10px}
+.yunwei .content .right a.beifen,.yunwei .content .right a.tongzhi,.yunwei .content .right a.anquan,.yunwei .content .right a.zdh{background-image:url(#)}
+.product .content div{padding-left:20px;padding-right:20px}
+.yunwei .content .right a i{display:block;width:100%;margin:auto;font-size:14px;color:#999;font-style:normal;padding:20px 10px;line-height:25px;text-align:left}
+.down-linux.bg4,.down-linux{background-color:#fff;border-bottom:1px solid #999}
+.down-linux .content{padding:0px 10px}
+.product .content div{width:100%;vertical-align:text-top;margin-left:0px}
+.down-linux .content .c2 div textarea{width:80%}
+.down-linux .content .c2 div a{width:20%}
+.yunwei .content .left,.yunwei .smalltitle,.yunwei .content .left img,.yunwei .content .right,.product .content,.down-linux .content,.down-linux .content .c2 div,.news{width:100%}
+.success-message{left:25%;bottom:50%}
+.yunwei .content{text-align:left;padding-top:0px;overflow:hidden}
+div#products-nav,.news{display:none}
+}

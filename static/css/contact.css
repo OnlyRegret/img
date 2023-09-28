@@ -1,0 +1,108 @@
+.banner-wrap{height:auto;position:relative;background-position:center center}
+.index-banner-top{margin:185px 0;z-index:99;position:absolute}
+.y-page-title-bg{width:100px;height:20px;background:linear-gradient(to right,#ffffff,#FFC107);display:inline-block;position:absolute;top:37%;left:22%;z-index:2}
+.center{text-align:center}
+.tpm-prod-hero__btn-group{margin-top:20px}
+h1.banner-title,.index-banner-top p{color:#000000;font-weight:600;margin-bottom:15px;font-size:38px;font-family:inherit;font-style:normal}
+.index-banner-top p{line-height:38px !important;height:34px;font-size:16px;font-weight:400;font-family:微软雅黑}
+img.products{width:100%;height:438px}
+.tpm-prod-hero__btn{background:#0e52ff;box-shadow:8px 8px 20px 0 rgb(121 172 255 / 10%);color:#fff;min-width:136px;height:44px;font-size:16px;line-height:42px;-webkit-font-smoothing:auto;transition:all .3s ease-in-out;outline:0 none;cursor:pointer;white-space:nowrap;text-align:center;text-decoration:none;vertical-align:middle;display:inline-block;box-sizing:border-box;margin-right:20px;border:2px solid #0056ff;border-radius:4px}
+.tpm-prod-hero__btn--white{border:1px solid #fff;box-shadow:8px 8px 20px 0 rgba(55,99,170,.1),inset 0 4px 20px 0 hsla(0,0%,100%,.5);transition:all .3s ease-in-out;color:#fff;border-color:rgba(255,255,255,.6)}
+.index-banner-top ul>li button{float:left;padding:6px 35px;background:#fff;color:#3085de;border-radius:3px;font-weight:600;margin-left:0px;margin-top:0px;border:none;height:35.5px}
+.index-banner-top ul>li .contorl button{background:none;border:1px solid #fff;color:#fff;padding:5px 35px;margin-left:8px}
+.index-banner{width:1240px;margin:auto}
+.swiper-container{margin-left:auto;margin-right:auto;position:relative;overflow:hidden;list-style:none;padding:0;z-index:1;}
+.swiper-pointer-events{touch-action:pan-y;height:438px}
+.container{width:1240px;margin:0 auto}
+.common-header{background-color:#01041ab3!important}
+.product-nav{border-bottom:1px solid #ddd}
+.product-nav{height:70px;background:#fff;font-size:16px}
+.product-nav .name{font-weight:bold;float:left;line-height:70px;margin-right:35px}
+.product-nav .name:after{content:"";float:right;width:2px;height:16px;background:#ddd;float:right;margin:27px 0 0 35px}
+.product-nav .btn-default{float:right;width:138px;height:38px;line-height:38px;margin:15px 0 0;color:#fff;text-align:center;font-size:16px;border:1px solid #015bfe;background:#015bfe}
+.product-nav{height:70px;background:#fff;font-size:16px}
+.product-nav .stype{float:left;overflow:hidden}
+.product-nav li{float:left;position:relative;color:#666666;line-height:70px;margin-right:90px;cursor:pointer}
+.product-nav li:after{content:"";position:absolute;left:0;bottom:0;width:0;height:3px;background:#015bfe;transition:0.2s all linear;-moz-transition:0.2s all linear;-webkit-transition:0.2s all linear;-o-transition:0.2s all linear}
+.product-nav li:hover{color:#015bfe}
+.product-nav li:hover:after{width:100%}
+.product-nav .active{color:#015bfe !important}
+.product-nav .active:after{width:100%}
+.product-nav .name{font-weight:bold;float:left;line-height:70px;margin-right:55px}
+.product-nav .name:after{content:"";float:right;width:2px;height:16px;background:#ddd;float:right;margin:27px 0 0 35px}
+.product-nav .btn-default{float:right;width:138px;height:38px;line-height:38px;margin:15px 0 0}
+.product-nav .btn-default:hover{color:#fff}
+.cloumn-blank{display:none;height:70px;overflow:hidden}
+.nav-fixed{border-bottom:1px solid #ddd;position:fixed;left:0;right:0;top:0;z-index:11}
+.contact-cloumn{font-size:30px;margin-bottom:45px}
+.contact-part1{padding:55px 0;min-width:1240px;overflow:hidden;background:#fff}
+.contact-part1 ul{margin-left:-39px;text-align:center;overflow:hidden}
+.contact-part1 ul li{float:left;margin-left:39px;position:relative;width:387px;height:328px;border-radius:4px;box-shadow:0 2px 10px rgba(64,66,77,.16);border:2px solid #ebf0fc}
+.contact-part1 ul h4{font-size:18px;font-weight:bold;padding-top:144px}
+.contact-part1 ul p{font-size:16px;color:#666666;margin-top:10px}
+.contact-part1 ul a{display:block;margin:36px auto 0;width:150px;height:45px;line-height:45px;background:#0e52ff;color:#fff}
+.contact-part1 ul span{display:block;height:38px;line-height:38px;font-size:23px;margin-top:40px}
+.contact-part1 ul em{display:inline-block;vertical-align:top;margin-right:10px;color:#015bfe;font-size:26px}
+.contact-part1 ul .ewm{display:none;position:absolute;left:0;top:0;right:0;bottom:0;color:#666666;font-size:16px;padding-top:68px;background:#fff}
+.contact-part1 ul .ewm img{display:block;border:1px solid #015bfe;width:158px;height:158px;margin:0 auto 15px}
+.contact-part1 ul .item1 h4{background:url("../picture/ico1.png") center 32px no-repeat}
+.contact-part1 ul .item2 h4{background:url("../picture/ico5.png") center 32px no-repeat}
+.contact-part1 ul .item3 h4{background:url("../picture/ico2.png") center 32px no-repeat}
+.contact-part1 ul .item2:hover .ewm{display:block}
+.contact-part2{padding:55px 0;background:#f2f5fa;min-width:1240px;overflow:hidden}
+.contact-part2 ul{margin-left:-40px;overflow:hidden}
+.contact-part2 ul li{float:left;margin-left:40px;padding:0 30px;width:600px;height:235px}
+.contact-part2 ul h4{font-size:24px;border-bottom:1px solid #ddd;height:69px;line-height:69px;padding-left:45px}
+.contact-part2 ul p{font-size:16px;color:#666666;margin:28px 15px 0}
+.contact-part2 ul a{display:block;width:150px;text-align:center;height:45px;margin:36px 15px 0;line-height:45px;background:#0e52ff;color:#fff}
+.contact-part2 ul span{display:block;height:38px;line-height:38px;margin:36px 15px 0;font-size:23px}
+.contact-part2 ul em{display:inline-block;vertical-align:top;margin-right:10px;color:#015bfe;font-size:26px}
+.contact-part2 ul .item1{background:url("../picture/bg1.jpg") right top no-repeat}
+.contact-part2 ul .item1 h4{background:url("../picture/ico3.png") 12px center no-repeat}
+.contact-part2 ul .item2{background:url("../picture/bg2.jpg") right top no-repeat}
+.contact-part2 ul .item2 h4{background:url("../picture/ico4.png") 14px center no-repeat}
+.contact-part3{padding:55px 0 40px;min-width:1240px;overflow:hidden}
+.contact-part3 .list{position:relative;height:450px;border:5px solid #f2f5fa;margin-bottom:40px}
+.contact-part3 .list img{display:block;max-width:100%;height:450px}
+.contact-part3 .text{background:#fff;width:305px;height:205px;padding:55px 75px 0 60px;position:absolute;right:-5px;top:95px}
+.contact-part3 .text h4{font-size:20px;margin-bottom:22px}
+.contact-part3 .text p{font-size:16px;line-height:30px;margin-bottom:10px;position:relative;padding-left:25px}
+.contact-part3 .text p:before{content:"";width:22px;height:30px;position:absolute;left:0;top:0}
+.contact-part3 .address:before{background:url("../picture/ads.png") left center no-repeat}
+.contact-part3 .tel:before{background:url("../picture/tel.png") left center no-repeat}
+.rno-section{padding:60px 0}
+.rno-section-inner{margin:0 auto;width:100%;max-width:1240px;box-sizing:border-box;-webkit-box-sizing:border-box;padding:0 10px}
+.rno-section{background-color:#fff}
+.rno-btn{min-width:88px;padding:10px 26px;background-color:#0e52ff;border:1px solid transparent;color:#fff;font-size:14px;line-height:34px;text-align:center;display:inline-block;cursor:pointer;outline:0;box-sizing:border-box;text-decoration:none}
+.rno-btn-text{color:inherit;-webkit-font-smoothing:antialiased}
+.rno-btn:hover{text-decoration:none;background-color:#0092ee}
+.rno-section.rno-contact-section{padding-bottom:0;position:relative;overflow:hidden;padding-top:0;margin-bottom:0}
+.rno-contact-section{background-color:#fff}
+.rno-contact-panel{min-height:358px;position:relative;z-index:5}
+.rno-contact-inner{padding-top:138px;padding-bottom:60px}
+.rno-contact-panel-title{font-size:28px;line-height:40px;color:#FFF;letter-spacing:0;font-weight:400;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:680px}
+.rno-contact-panel-text{margin-top:20px;font-size:14px;color:#FFF;line-height:24px;max-width:680px}
+.rno-contact-panel-bg{position:absolute;bottom:0;left:50%;margin-left:-2500px;width:5000px;height:100%;background-image:url(../picture/rno-contact-panel-footer-bg.svg);background-size:cover}
+.rno-contact-panel-bg::before{content:'';position:absolute;left:54%;bottom:0;width:190px;height:109px;background-image:url(../picture/rno-contact-panel-footer-bg-icon.svg);background-size:cover}
+.rno-contact-panel-wrap{margin-top:30px}
+@media all and (max-width:768px){img.products{height:280px;width:120%}
+.swiper-pointer-events{touch-action:pan-y;height:280px}
+h1.banner-title{font-size:20px;margin-top:0px;display:inline-block}
+.index-banner-top{margin:105px 0;z-index:99;position:absolute;padding:0px 80px 0 20px}
+.index-banner-top p{text-align:left;font-size:14px;color:#ccc}
+h1.banner-title{color:#ffffff;font-size:20px;margin-top:0px;display:inline-block;border-left:3px solid #ffc107;padding-left:14px}
+.tpm-prod-hero__btn-group{display:none}
+.product-nav .stype{float:inherit;overflow:hidden;text-align:center}
+.product-nav .name,.product-nav .btn-default{display:none}
+.product-nav li{margin-right:0;width:25%}
+.product-nav li:before{content:"";height:20px;width:1px;background:#e6e6e6;position:absolute;right:0;top:25px}
+.contact-part1,.contact-part2,.contact-part3{padding:55px 0 0;min-width:100%;overflow:hidden;background:#fff}
+.container{width:100%;margin:0 auto}
+.contact-part1 ul,.contact-part2  ul{margin-left:0;padding:0 10px}
+.contact-part1 ul li,.contact-part2 ul li{float:left;margin-left:auto;position:relative;border:1px solid #ddd;width:100%;height:328px;margin-bottom:20px}
+.contact-part2 ul li{height:auto}
+.contact-cloumn{text-align:center;font-size:20px}
+.contact-part2 ul h4{font-size:18px}
+.contact-part2 ul a{display:block;width:auto;text-align:center;height:45px;margin:16px 15px 26px 15px;line-height:45px;background:#0e52ff;color:#fff}
+.contact-part2 ul span{margin:16px 15px 26px 15px}
+}
