@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon备份 4</title>
+    <g id="icon备份-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" x="0" y="0" width="18" height="18"></rect>
+            <path d="M1.5687874,12.0434384 L1.5687874,16.4640495 L6.02471257,16.4640495 L16.3070863,6.18906549 C16.6920631,5.80436543 16.6987035,5.18242944 16.3220284,4.78959726 L13.3941842,1.73616593 C13.0119439,1.33752977 12.3789185,1.32423831 11.9802823,1.70647862 C11.9760931,1.71049556 11.9719389,1.71454889 11.9678202,1.71863816 L1.5687874,12.0434384 L1.5687874,12.0434384 Z" id="路径-6" stroke="#000000" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <line x1="9.5" y1="3.5" x2="14.5" y2="8.5" id="直线-3" stroke="#000000" stroke-linejoin="round" fill-rule="nonzero"></line>
+            <line x1="6.5" y1="16.5" x2="16.5" y2="16.5" id="直线-4" stroke="#000000" stroke-linecap="square"></line>
+            <line x1="1.5" y1="11.5" x2="6.5" y2="16.5" id="直线-3备份" stroke="#000000" stroke-linejoin="round" fill-rule="nonzero"></line>
+        </g>
+    </g>
+</svg>
