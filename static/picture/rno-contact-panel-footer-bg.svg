@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5000px" height="580px" viewBox="0 0 5000 580" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>5000 copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-14.3292957%" y1="35.6707043%" x2="121.174802%" y2="-13.4838797%" id="linearGradient-1">
+            <stop stop-color="#D4D9E6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.64234104%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#E1E3EB" offset="0%"></stop>
+            <stop stop-color="#F0F2F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#C3C6D0" offset="0%"></stop>
+            <stop stop-color="#F6FAFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.3731936%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#ECEDF1" offset="34.2417811%"></stop>
+            <stop stop-color="#CFD6E2" offset="80.7509935%"></stop>
+            <stop stop-color="#EEF4FD" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="1402.99948 0 4445 546 0 546"></polygon>
+        <linearGradient x1="35.8964597%" y1="16.3124919%" x2="35.8964597%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#1A2334" offset="0%"></stop>
+            <stop stop-color="#1E283E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5000-copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <g id="Group-2" transform="translate(555.000000, 0.000000)">
+                <g id="浅灰六边形" transform="translate(2287.000000, 119.000000)" fill-rule="nonzero">
+                    <path d="M364.755408,214 L64.2445924,214 L64.2445924,86.75 L214.5,0 L364.755408,86.75 L364.755408,214 Z" id="Combined-Shape" fill="url(#linearGradient-1)" opacity="0.9"></path>
+                    <path d="M576.223973,240 L100.776027,240 L100.776027,173.5 L338.5,36 L576.223973,173.5 L576.223973,240 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.900000036"></path>
+                    <path d="M133.873067,214 L61.126933,214 L0.0721420743,178.75 L0.0721420743,66.25 L97.5,10 L194.927858,66.25 L194.927858,178.75 L133.873067,214 Z" id="Combined-Shape" fill="url(#linearGradient-3)" opacity="0.65255767"></path>
+                </g>
+                <g id="元素" transform="translate(2500.228930, 48.923681) rotate(-16.000000) translate(-2500.228930, -48.923681) translate(2401.228930, 26.923681)" fill-rule="nonzero">
+                    <polygon id="Path-10" fill="#EFEFF0" points="11.5987529 0.00369590954 0.959252855 18.9560725 21.810726 11.0499579"></polygon>
+                    <polygon id="Path-11" fill="#B2BACF" points="0.832370711 18.983667 18.9279727 17.7052568 21.8323707 11.983667"></polygon>
+                    <circle id="Oval" fill="url(#linearGradient-4)" cx="190.915082" cy="36.7836118" r="7"></circle>
+                </g>
+                <g id="六边形" transform="translate(2310.000000, 37.000000)">
+                    <g id="组_4" transform="translate(134.000000, 0.000000)" stroke="#CED1DB">
+                        <path d="M111.5,93.227284 L111.5,31.0026341 L56,0.570234046 L0.5,31.0026341 L0.5,95.7563467 L56.1358192,125.427714 L111.5,93.227284 Z" id="多边形_4_拷贝_13"></path>
+                    </g>
+                    <polygon id="多边形_4_拷贝_9" fill="#F9FAFB" points="190 103.885742 154.03154 84.1879259 154 42.8857422 190 63"></polygon>
+                    <polygon id="多边形_4_拷贝_10" fill="#ADB4BF" points="190 103.866089 226 83.9202919 226 42.8660889 190 63"></polygon>
+                    <polygon id="多边形_4_拷贝_4" fill="#E6E7EA" points="190 63 154 42.9444531 190 21.0145264 226 42.9444531"></polygon>
+                    <polygon id="多边形_4_拷贝_11" fill="#ABAFBC" points="190 42 173.018201 53.5576172 173.018201 73.0644531 190 63"></polygon>
+                    <polygon id="多边形_4_拷贝_11-2" fill="#F6F8FC" points="190 42 207 53.5806885 207 73 190 63"></polygon>
+                    <polygon id="多边形_4_拷贝_11-3" fill="#D0D2D9" points="190 63 173.01001 73.0395508 190 83 207.021118 73"></polygon>
+                    <path d="M190.5,1 L190.5,11" id="Line-4" stroke="#CED1DB" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M240.580127,28.9330127 L240.580127,38.9330127" id="Line-4" stroke="#CED1DB" stroke-linecap="square" fill-rule="nonzero" transform="translate(240.580127, 33.933013) rotate(60.000000) translate(-240.580127, -33.933013) "></path>
+                    <path d="M240.580127,85.9330127 L240.580127,95.9330127" id="Line-4" stroke="#CED1DB" stroke-linecap="square" fill-rule="nonzero" transform="translate(240.580127, 90.933013) scale(1, -1) rotate(60.000000) translate(-240.580127, -90.933013) "></path>
+                    <path d="M139.580127,28.9330127 L139.580127,38.9330127" id="Line-4" stroke="#CED1DB" stroke-linecap="square" fill-rule="nonzero" transform="translate(139.580127, 33.933013) scale(-1, 1) rotate(60.000000) translate(-139.580127, -33.933013) "></path>
+                    <path d="M190,124.5 L190,114.5" id="Line-5" stroke="#CED1DB" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M74.5980762,48.6987298 L70.6326859,210.700962" id="Line-4" stroke="#CED1DB" stroke-linecap="square" fill-rule="nonzero" transform="translate(72.632686, 129.700962) scale(-1, -1) rotate(60.000000) translate(-72.632686, -129.700962) "></path>
+                </g>
+                <g id="Group" transform="translate(0.000000, 20.000000)">
+                    <polygon id="浅色底" fill="#DBDEE7" fill-rule="nonzero" points="665 314 1440 0 3265 348"></polygon>
+                    <g id="深色底" transform="translate(0.000000, 14.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Mask" fill="#1E283E" xlink:href="#path-5"></use>
+                        <path d="M2202.99219,72.0006891 C2202.98698,72.6678151 2016.98958,175.334252 1645,380 C1830,380 2834.54708,379.764045 3516,379 C2640.66667,173.666667 2202.9974,71.333563 2202.99219,72.0006891 Z" id="Path-8" fill="url(#linearGradient-7)" mask="url(#mask-6)"></path>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="5000" height="580"></rect>
+        </g>
+    </g>
+</svg>
