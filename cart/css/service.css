@@ -1,0 +1,362 @@
+
+.app-lighthouse-justify-grid {
+	display:flex;
+	width:100%;
+	align-items:center;
+	color:rgba(0,0,0,.9)
+}
+.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col {
+	flex:auto;
+	vertical-align:middle;
+	text-align:right;
+	font-size:0
+}
+.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col--left,.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col:first-child {
+	text-align:left
+}
+.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col--left .app-lighthouse-btn,.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col:first-child .app-lighthouse-btn {
+	margin-right:10px
+}
+.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col--right {
+	text-align:right
+}
+.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col--right .app-lighthouse-btn,.app-lighthouse-justify-grid .app-lighthouse-justify-grid__col--right .app-lighthouse-dropdown {
+	margin-left:10px;
+	margin-right:0
+}
+::-ms-backdrop {
+	position:static
+}
+.app-lighthouse-icon {
+	width:16px;
+	height:16px;
+	display:inline-block;
+	vertical-align:middle;
+	background-repeat:no-repeat;
+	background-position:inherit;
+	font-size:0
+}
+.app-lighthouse-icon-pencil {
+	background-image:url(data:image/svg+xml;
+	base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTkuODI3IDMuNzI5TDExLjU1NSAyIDE0IDQuNDQ1bC0xLjcyOCAxLjcyOHpNMyAxMC41NTZWMTNoMi40NDRsNS45NjMtNS45NjMtMi40NDQtMi40NDR6IiBmaWxsPSIjODg4Ii8+PC9zdmc+)
+}
+.app-lighthouse-icon-copy {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PGcgZmlsbD0iIzg4OCI+PHBhdGggZD0iTTExIDVINXY5aDhWNWgtMnptMCA3SDdWN2g0djV6Ii8+PHBhdGggZD0iTTEwIDJIMnY5aDJWNGg2eiIvPjwvZz48L3N2Zz4=);
+}
+.app-lighthouse-icon-arrowdown {
+	background-image:url(data:image/svg+xml;
+	base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iIzg4OCIgZD0iTTEyIDZINGw0IDV6Ii8+PC9zdmc+)
+}
+.app-lighthouse-btn {
+	height:30px;
+	min-width:24px;
+	padding:0 20px;
+	background-color:#006eff;
+	color:#fff;
+	border:1px solid #006eff;
+	line-height:30px;
+	text-align:center;
+	display:inline-block;
+	cursor:pointer;
+	outline:0 none;
+	box-sizing:border-box;
+	text-decoration:none;
+	font-size:12px;
+	vertical-align:middle;
+	white-space:nowrap;
+	border-radius:0;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none
+}
+.app-lighthouse-btn:hover {
+	text-decoration:none
+}
+.app-lighthouse-btn:focus,.app-lighthouse-btn:hover {
+	border-color:#2a86ff;
+	background-color:#2a86ff
+}
+.app-lighthouse-btn:active,.app-lighthouse-btn:focus,.app-lighthouse-btn:hover {
+	color:#fff;
+	transition:all .3s ease-in-out
+}
+.app-lighthouse-btn:active {
+	border-color:#0058df;
+	background-color:#0058df
+}
+.app-lighthouse-btn--link {
+	display:inline-block;
+	text-align:center;
+	height:auto;
+	padding:0;
+	vertical-align:middle;
+	line-height:1.5;
+	border:none;
+	color:#006eff
+}
+.app-lighthouse-btn--link,.app-lighthouse-btn--link:hover {
+	text-decoration:none;
+	background-color:transparent
+}
+.app-lighthouse-btn--link:hover {
+	color:#2a86ff
+}
+.app-lighthouse-btn--link:active,.app-lighthouse-btn--link:focus {
+	background-color:transparent;
+	color:#006eff;
+	text-decoration:none
+}
+.app-lighthouse-btn--icon {
+	display:inline-block;
+	font-size:0;
+	border:none;
+	padding:5px;
+	height:inherit;
+	line-height:inherit;
+	background-color:transparent;
+	box-sizing:border-box
+}
+.app-lighthouse-btn--icon:hover {
+	background-color:#ebeef2;
+	text-decoration:none
+}
+.app-lighthouse-btn--icon:active {
+	background-color:#cfd5de;
+	text-decoration:none
+}
+.app-lighthouse-btn--icon:focus {
+	background-color:#e7eaef
+}
+.app-lighthouse-badge {
+	display:inline-block;
+	font-size:12px;
+	max-width:100%;
+	height:20px;
+	line-height:20px;
+	padding:0 5px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis
+}
+.app-lighthouse-badge.is-success-dark {
+	background-color:#0abf5b;
+	border-color:#0abf5b;
+	color:#fff
+}
+.app-lighthouse-badge.app-lighthouse-badge--ring {
+	font-size:0;
+	padding:0;
+	border-radius:100%;
+	vertical-align:middle
+}
+.app-lighthouse-badge.app-lighthouse-badge--ring {
+	width:10px;
+	height:10px;
+	border-width:2px;
+	border-style:solid;
+	background-color:#fff!important
+}
+.app-lighthouse-grid__box {
+	color:rgba(0,0,0,.9)
+}
+.app-lighthouse-grid {
+	margin:-10px;
+	display:flex;
+	flex-wrap:wrap
+}
+.app-lighthouse-grid [class*=app-lighthouse-grid__item] {
+	padding:10px
+}
+.app-lighthouse-grid__box {
+	height:100%
+}
+.app-lighthouse-grid__item-8 {
+	width:33.3333333%
+}
+.app-lighthouse-card {
+	background-color:#fff;
+	box-shadow:0 2px 4px 0 rgba(54,58,80,.32);
+	margin-left:auto;
+	margin-right:auto;
+	box-sizing:border-box;
+	border-radius:0;
+	color:rgba(0,0,0,.9)
+}
+.app-lighthouse-card__body {
+	font-size:12px;
+	padding:20px
+}
+.app-lighthouse-dropdown {
+	display:inline-block;
+	vertical-align:middle;
+	position:relative;
+	color:rgba(0,0,0,.9)
+}
+.app-lighthouse-dropdown.size-auto-width .app-lighthouse-dropdown__header {
+	width:auto
+}
+.app-lighthouse-dropdown__header {
+	height:30px;
+	padding:0 22px 0 0;
+	position:relative;
+	box-sizing:border-box;
+	cursor:pointer
+}
+.app-lighthouse-dropdown__header>.app-lighthouse-icon {
+	position:absolute;
+	right:4px;
+	top:6px
+}
+.app-lighthouse-dropdown__value {
+	line-height:30px;
+	font-size:12px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-align:left
+}
+.app-lighthouse-dropdown-link .app-lighthouse-dropdown__value {
+	color:#006eff
+}
+.app-lighthouse-dropdown-link .app-lighthouse-icon-arrowdown {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iIzAwNmVmZiIgZD0iTTEyIDZINGw0IDV6Ii8+PC9zdmc+);
+}
+::-ms-backdrop {
+	word-break:break-all
+}
+@supports (-ms-ime-align:auto) {
+	}_:-ms-lang(x)::backdrop {
+	display:block
+}
+.app-lighthouse-cascader-menu--thin .app-lighthouse-list:first {
+	border-left:none
+}
+::-ms-backdrop {
+	position:-ms-page
+}
+._lh-server-list__item {
+	position:relative
+}
+._lh-server-list__item .app-lighthouse-card__content {
+	display:flex;
+	min-height:110px;
+	flex-direction:column
+}
+._lh-server-list__item .app-lighthouse-justify-grid .app-lighthouse-justify-grid__col:first-child .app-lighthouse-btn {
+	margin-right:0
+}
+._lh-server-list__item-header {
+	margin-bottom:18px
+}
+._lh-server-list__item-header .app-lighthouse-justify-grid__col--left {
+	width:calc(100% - 120px);
+	white-space:nowrap;
+	flex-wrap:nowrap
+}
+._lh-server-list__item-header .app-lighthouse-justify-grid__col--right {
+	flex:0 0 100px
+}
+._lh-server-list__item-header .app-lighthouse-justify-grid__col--right .app-lighthouse-dropdown {
+	margin-left:0
+}
+._lh-server-list__item-header-left-col {
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	width:100%;
+	flex-wrap:nowrap;
+	white-space:nowrap
+}
+._lh-server-list__item-header-tit {
+	display:inline-block;
+	display:flex;
+	padding-right:26px;
+	position:relative;
+	font-weight:600;
+	max-width:calc(100% - 40px);
+	box-sizing:border-box
+}
+._lh-server-list__item-header-tit:hover ._lh-server-icon-edit {
+	display:block
+}
+._lh-server-list__item-header-tit ._lh-server-icon-edit {
+	position:absolute;
+	right:0;
+	top:50%;
+	transform:translateY(-50%);
+	display:none
+}
+._lh-server-list__item-header-tit .tit-box {
+	width:100%;
+	display:flex
+}
+._lh-server-list__item-header-tit .tit-box-text {
+	flex:1 1 auto;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	display:inline-block;
+	word-break:break-all
+}
+._lh-server-list__item-body {
+	flex:1 1 auto;
+	min-height:42px
+}
+
+.cls {
+    color: #006eff;
+    padding-right: 10px;    
+}
+.d-IP {
+    color: #FF5722;
+}
+._lh-server-list__item-body>p>i {
+    color: #000;
+    font-size: 13px;
+    font-weight: 400;
+}
+._lh-server-list__item-body p {
+    color: #999;
+}
+.nextinvoicedate{
+     font-size: 12px !important;
+    color: #000;
+    padding: 0 5px;   
+}
+.dots {
+    cursor: pointer;
+    border: 1px solid #fff;
+    position: absolute;
+    top: inherit;
+    width: 10px;
+    height: 10px;
+    border-width: 2px;
+    border-style: solid;
+    background-color: #fff!important;
+    display: inline-block;
+    font-size: 12px;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-radius: 100%;
+    vertical-align: middle;
+    border-color: #0abf5b;
+    color: #fff;
+    margin-top: 5px;
+    margin-left: 20px;
+    left: 0;  
+}
+/*shouji*/
+@media (max-width:767px) {
+.app-lighthouse-grid__item-8 {
+    width: 100%;
+}
+.table-header>* {
+    flex: 1;
+    width: 100%;
+}
+.bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+    width: 100%;
+}
+}

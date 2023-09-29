@@ -1,0 +1,206 @@
+
+.tr_recharge {
+	max-width:100%;
+	background: #fff;
+	border-radius: 4px;
+	overflow: hidden;
+}
+.addfunds-payment.active, .addfunds-payment:hover {
+    cursor: pointer;
+    border-color: #007bfc;
+    background-image: linear-gradient(0deg,#fff,#f3f5f8);
+    border: 1px solid #fff;
+    box-shadow: 8px 8px 20px 0 rgba(55,99,170,.1), -8px -8px 20px 0 #fff;
+}
+.addfunds-payment.active {
+    border: 1px solid rgba(18, 38, 63, 0.03);
+    background-image: linear-gradient(0deg,rgba(18, 38, 63, 0.03),#f8f9fa);
+    box-shadow: 0px 2px 2px 0 rgba(55,99,170,.1), 2px 2px 2px 0 #006eff;
+}
+.paydcion {
+    padding: 10px !important;
+    background-image: linear-gradient(0deg,#fff,#ffffff);
+    margin: 3px 0px;
+    border-radius: 4.5px;
+    border: 1px solid #eff2f7;    
+}
+.tr_rechtext {
+    color: #006eff !important;
+    padding: 10px !important;
+    background-image: linear-gradient(0deg,#fff,#f3f5f8);
+    border: 2px solid #fff;
+    box-shadow: 8px 8px 20px 0 rgba(55,99,170,.1), -8px -8px 20px 0 #fff;
+    margin: 3px 0px;
+    border-radius: 4.5px;  
+}
+.form-group.row.mb-4.align-items-center, .form-group.row.mb-3 {
+    padding: 8px 20px;
+}
+ .form-group.row.mb-3 {
+    border-bottom: 1px solid #ededed;
+ }
+.addfunds-payment:hover {
+    cursor: pointer;
+    border-color: #007bfc;
+    background-image: linear-gradient(0deg,#fff,#f3f5f8);
+    border: 1px solid #006eff;
+    box-shadow: 8px 8px 20px 0 rgba(55,99,170,.1), -8px -8px 20px 0 #fff;
+}
+.submitticket {
+    color: #006eff!important;
+    background-color: #e8f4ff;
+    border-color: #d1e9ff;
+    display: inline-block;
+    font-size: 12px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2.5px;
+    border: 2px solid #fff;
+    box-shadow: 8px 8px 20px 0 rgba(55,99,170,.1), -8px -8px 20px 0 #fff;
+    padding: 0px 20px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 40px;
+    font-size: 0.8125rem;
+    font-weight: 400;
+    line-height: 40px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+
+.tr_rechtext p {
+	margin-bottom: 10px;
+}
+
+.tr_pay {
+	padding: 12px 30px;
+
+	border-radius: 4px;
+	border: none;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	outline: 0;
+}
+
+.tr_pay:hover {
+	color: #fff;
+}
+
+.btn-primar {
+	color: #999;
+	margin-left: 30px;
+}
+
+
+
+.top_balance_container__3YP8u {
+    margin-bottom: 20px;
+    margin: 3px 0px;
+}
+.top_balance_money__1Zd_X {
+    flex: 1;
+    width: 100%;
+    height: 96px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #006eff !important;
+    padding: 10px !important;
+    background-image: linear-gradient(0deg,#fff,#ffffff);
+    border: 2px solid #fff;
+    border-radius: 4.5px;
+}
+ .top_balance_money__1Zd_X .top_balance_border__3piNU {
+	width:1px;
+	height:54px;
+	background:#ebedf0;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-top:-27px
+}
+
+.col-form-label {
+    word-break: break-all;
+    font-weight: 700;
+    font-size: 14px;
+}
+.money_container_transfer__1Jb5r {
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	height:24px;
+	margin-bottom:2px
+}
+.money_container_transfer__1Jb5r .money_top__1QHym {
+	display:flex;
+	align-items:center;
+	color:#a5a9b3
+}
+.money_container_transfer__1Jb5r .money_top__1QHym i {
+	display:block;
+	width:24px;
+	height:24px;
+	margin-right:4px;
+	background-repeat:no-repeat;
+	background-position:50%;
+	background-size:cover
+}
+.payimg {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;    
+}
+.money_container_transfer__1Jb5r .money_top__1QHym i.trans_withdraw_lock__6eenr {
+	background-image:url(/themes/clientarea/user/static/images/ico-lock-wallet.9f706b0.png)
+}
+.money_container_transfer__1Jb5r .money_top__1QHym i.trans_withdraw_center__2z_5L {
+	background-image:url(/themes/clientarea/user/static/images/ico-center-wallet.d3b6118.png)
+}
+ .top_balance_money__1Zd_X .money_text__2RQM- {
+	margin-top:3px;
+	color:#414755;
+	font-weight:700;
+	height:31px;
+	line-height:31px
+}
+ .top_balance_money__1Zd_X .money_text__2RQM- span {
+	font-size:12px
+}
+ .top_balance_money__1Zd_X .money_text__2RQM- b {
+	font-family:DinProMedium;
+	margin-left:5px;
+	font-size:24px
+}
+.money_content__1c_qg {
+	width:50%;
+	height:100%;
+	padding:20px 16px 16px;
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	justify-content:center
+}
+
+.style__notice_content__3d4_Q .style__notice_content__3d4_Q::-webkit-scrollbar-thumb:window-inactive {
+	background:#eee
+}
+.style__notice_content__3d4_Q div ul::-webkit-scrollbar-thumb:window-inactive {
+	background:#eee
+}
+.style__modal_CuorsterAreat_model__1ZawA .style__flex__2ikzb::-webkit-scrollbar-thumb:window-inactive {
+	background:#eee
+}
+
+
+
